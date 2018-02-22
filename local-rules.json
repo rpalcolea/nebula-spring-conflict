@@ -1,0 +1,36 @@
+{
+  "substitute": [
+    {
+      "module" : "com.tgt.oss.autobahn:autobahn-exec",
+      "with" : "com.tgt.oss.autobahn:autobahn-exec:0.0.16",
+      "reason" : "The latest stable version of autobahn-exec",
+      "author" : "Roberto Perez Alcolea <roberto.perezalcolea@target.com>",
+      "date" : "2018-02-22T11:10:20.368Z"
+    },
+    {
+      "module" : "com.tgt.oss.autobahn:autobahn-serdes",
+      "with" : "com.tgt.oss.autobahn:autobahn-serdes:0.0.16",
+      "reason" : "The latest stable version of autobahn-exec",
+      "author" : "Roberto Perez Alcolea <roberto.perezalcolea@target.com>",
+      "date" : "2018-02-22T11:10:20.368Z"
+    },
+    {
+      "module" : "com.tgt.oss.autobahn:autobahn-hollow",
+      "with" : "com.tgt.oss.autobahn:autobahn-hollow:0.0.16",
+      "reason" : "The latest stable version of autobahn-hollow",
+      "author" : "Roberto Perez Alcolea <roberto.perezalcolea@target.com>",
+      "date" : "2018-02-22T11:10:20.368Z"
+    },
+    {
+      "module" : "com.tgt.oss.autobahn:autobahn-config",
+      "with" : "com.tgt.oss.autobahn:autobahn-config:0.0.16",
+      "reason" : "The latest stable version of autobahn-config",
+      "author" : "Roberto Perez Alcolea <roberto.perezalcolea@target.com>",
+      "date" : "2018-02-22T11:10:20.368Z"
+    }
+  ],
+  "align": [],
+  "replace": [],
+  "deny": [],
+  "reject": []
+}
