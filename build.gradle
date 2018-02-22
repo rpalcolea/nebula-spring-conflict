@@ -44,8 +44,4 @@ dependencies {
 	compile("com.netflix.hollow:hollow:2.12.0")
 	compile("com.netflix.hollow:hollow-diff-ui:2.12.0")
 	compile("com.netflix.hollow:hollow-explorer-ui:2.12.0")
-	compile('org.springframework.boot:spring-boot-starter-actuator')
-	compile('org.springframework.boot:spring-boot-starter-web')
-	runtime("io.micrometer:micrometer-registry-prometheus")
-	runtime("io.micrometer:micrometer-registry-jmx")
 }

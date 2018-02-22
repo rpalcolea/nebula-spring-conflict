@@ -4,7 +4,7 @@
       "name": "netflix-hollow",
       "group": "com.netflix.hollow",
       "includes": ["hollow", "hollow-diff-ui", "hollow-explorer-ui"],
-      "reason": "Align Autobahn Commons libraries",
+      "reason": "test alignment",
       "author" : "Roberto Perez Alcolea <roberto.perezalcolea@target.com>",
       "date" : "2018-02-22T11:10:20.368Z"
     }
